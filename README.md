@@ -1,7 +1,8 @@
 
 # 👋 Hi there, I’m Snowy (Anh Tuyet To)!
 
-I’m currently pursuing my **Master of Science in Business Analytics** at the University of Southern California. I’m passionate about transforming complex data into actionable insights that drive business value. with a strong background in accounting and analytics, I enjoy blending strategic thinking, data-driven technology, and compelling storytelling.
+I’m currently pursuing my **Master of Science in Business Analytics** at the University of Southern California. I’m passionate about transforming complex data into actionable insights that drive business value. With a strong background in **accounting and analytics**, I enjoy blending strategic thinking, data-driven technology, and compelling storytelling.
+
 ---
 
 ## 🎓 Education
