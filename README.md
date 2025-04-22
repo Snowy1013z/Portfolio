@@ -1,4 +1,3 @@
-#porfolio
 
 # 👋 Hi there, I’m Snowy (Anh Tuyet To)!
 
