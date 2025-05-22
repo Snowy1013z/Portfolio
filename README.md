@@ -7,7 +7,7 @@ I’m currently pursuing my **Master of Science in Business Analytics** at the U
 
 ## 🎓 Education
 
-- **University of Southern California** – MS in Business Analytics (GPA: 3.62)  
+- **University of Southern California** – MS in Business Analytics (GPA: 3.72)  
   _Dean’s List | Business Analytics Student Association_
 
 - **Oregon State University** – Honors BS in Accountancy, Minor in Economics (GPA: 3.97)  
